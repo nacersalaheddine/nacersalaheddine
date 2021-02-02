@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![svg](https://user-images.githubusercontent.com/20127375/106664461-62692800-65a5-11eb-8b37-3a22a374c446.gif)
+
+
 ## Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nacersalaheddine)
