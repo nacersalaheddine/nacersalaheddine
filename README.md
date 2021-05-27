@@ -7,6 +7,11 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nacersalaheddine)
 
+## 👨🏻‍💻 Most used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nacersalaheddine)
+
+## 🤔 Curious Profile Viewers
+![](https://komarev.com/ghpvc/?username=nacersalaheddine&style=flat-square)
 
 <!--
 **nacersalaheddine/nacersalaheddine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
